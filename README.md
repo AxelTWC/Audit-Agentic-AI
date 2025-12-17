@@ -28,6 +28,12 @@ Plan → Tool → Observe → Verify → Repeat
 
 - Evaluation-driven development
 
+## Concept expansion and ideology
+
+[Explaination](https://github.com/AxelTWC/Audit-Agentic-AI/blob/main/INTRO.md)
+
+Toddler explaination: 
+It’s like Devin-SWE/Github Copilot/AI Agents with Automatic Approval, but instead of acting silently, it exposes its entire reasoning process, proves why a change is valid, and requires human approval before anything is applied
 
 -----------
 Trained on 5090 locally
